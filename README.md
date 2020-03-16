@@ -7,6 +7,7 @@ OW Snippets
 - [Summary](#sumary)
     - [Brew](https://github.com/rogersilvasouza/OW-Snippets/tree/master/brew)
     - [OSX](https://github.com/rogersilvasouza/OW-Snippets/tree/master/osx)
+    - [Laravel](https://github.com/rogersilvasouza/OW-Snippets/tree/master/laravel)
     - [I want to contribute](#i-want-to-contribute)
 
 ## I want to contribute
